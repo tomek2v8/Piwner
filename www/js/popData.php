@@ -33,3 +33,4 @@ if($qry->num_rows >0 ) {
 	$con->close();
 	
 	echo json_encode($data);
+?>

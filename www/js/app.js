@@ -1,1 +1,1 @@
-angular.module('Piwner', ['ionic'])
+angular.module('Piwner', ['ionic', 'ngCordova'])
